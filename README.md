@@ -22,8 +22,8 @@
 
 ### Links
 
-- Solution URL: [URL]()
-- Live Site URL: [URL]()
+- Solution URL: [URL](https://www.frontendmentor.io/solutions/built-using-html-css-bootstrap-xUxsCab-rF)
+- Live Site URL: [URL](https://sivin-s.github.io/faq-accordion-main/)
 
 ## My process
 
